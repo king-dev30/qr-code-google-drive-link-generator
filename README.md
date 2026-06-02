@@ -5,7 +5,7 @@
 
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fgdrivedirect.com&up_message=online&up_color=success&down_color=critical)](https://gdrivedirect.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen.svg)]()
+
 
 > **Live Tool:** [https://gdrivedirect.com](https://gdrivedirect.com)
 
